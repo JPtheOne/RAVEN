@@ -1,4 +1,4 @@
-# RAVEN — Research & Analysis Virtual Environment Network
+# RAVEN - Research & Analysis Virtual Environment Network
 
 **Forensic Environment for Network Research & Incident Response**
 
@@ -9,10 +9,8 @@ Designed to be accessible through VPN and SSH. Intended for learning, detection 
 ---
 
 ## What this repo contains
-- **JOURNAL.md** — step-by-step notes and troubleshooting from the build.  
-- **scripts/** — minimal, idempotent helpers to prepare host networking, create VMs, and enable VNC autostart.  
-- **examples/** — sample VM config snippets (Proxmox `.conf`), systemd VNC service examples, architecture notes.  
-- **docs/** — network architecture, Tailscale instructions, and optional tooling notes.
+- **Journal/** — step-by-step notes on what I tried until it worked!
+
 
 
 ![alt text](image.png)
